@@ -13,9 +13,9 @@
 - Tested in Windows 10 with Cmake 3.11 & g++ 8.1.0
 - Tested in Ubuntu with Cmake 3.23 & g++ 5.0
 #### Windows
-- Run build_windows.bat or build_MingW.bat -> output in /test
+- Run build_windows.bat or build_MingW.bat, depending on compiler available -> will output as "run.exe" in /test, along with required dlls
 #### Ubuntu or Kali Linux
-- Run build.sh -> output in /test
+- Run build.sh -> will output as "run" in /test
 
                 
 				
